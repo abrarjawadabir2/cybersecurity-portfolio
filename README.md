@@ -91,6 +91,6 @@ I am looking for opportunities in:
 
 ## Connect With Me
 
-* LinkedIn: Add your LinkedIn link here
-* Portfolio Repository: Add your cybersecurity portfolio link here
-* Email: Add your professional email here
+* LinkedIn: 
+* Portfolio Repository: 
+* Email: 
